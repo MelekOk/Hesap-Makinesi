@@ -1,0 +1,41 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+}
+.container {
+    background-color: antiquewhite;
+    width: 50%;
+    border-radius: 10px;
+    height: 500px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:80px;
+}
+.item{
+    
+}
+.hesap{
+
+}
+    .hesap h1 {
+        color: darksalmon;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+.display {
+    border: 1px solid darksalmon;
+    height:20px;
+}
+.btn-group{
+    margin-top:10px;
+}
+.button {
+    width: 37px;
+    margin: 3px;
+    background-color: darksalmon;
+    color: antiquewhite;
+}
+.button:hover{
+    opacity:0.4;
+}
